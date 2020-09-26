@@ -35,3 +35,11 @@
     - Draw conclusions (among options) or predict outcomes based on the info provided via the conversation/lecture
 
 ---
+## Speaking
+- Independent speaking question
+    - 15 secs to prepare, conform choices & be ready for showdown (45s)
+- Integrated speaking questions 
+    - Reading + Listening, then Speaking 
+    - 30s (except for last, which provides 20s) of prep time, 60s of speaking
+
+---
