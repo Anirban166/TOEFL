@@ -20,5 +20,18 @@
     - Select 3 options / Drag-n-drop that deem suitable (summarizing the text)
     - Marking scheme: 2 for 3/3 correct, 1 for 2/3 
 
+---
+## Listening
+- Listen each audio strip once (no pauses) + cannot trace back
+- Gist-content/purpose questions
+    - Idenitfy the prime topic/objective of the conversation
+- Detail specific questions
+    - Particular detail (non-trivial) mentioned in the lecture
+- Attitude questions
+    - Diagnose the speaker's position/opinions
+- Organization & Connecting-content questions
+    - Structure the relationship b/w parts of the lecture and organize info spread throughout the lecture 
+- Inference questions
+    - Draw conclusions (among options) or predict outcomes based on the info provided via the conversation/lecture
 
-    
+---
