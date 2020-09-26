@@ -43,3 +43,15 @@
     - 30s (except for last, which provides 20s) of prep time, 60s of speaking
 
 ---
+## Writing
+- Integrated question 
+    - Reading + Listening, then Writing
+    - Passage usually contains 3 supporting points in different paragraphs
+    - Summarize points made in the lecture and explain their relation with specific points from the passage
+    - 20 mins to type answer, composed of 150-200 words ideally (will definitely exceed)
+    - Spend more time in summarizing the lecture, addressing points from the text
+- Independent writing question
+    - Express personalized opinion on a given topic with examples
+    - 30m, 300+ words
+    - 'Firstly', 'Next up', 'Finally' are appropriate stances to begin the paras 
+    
