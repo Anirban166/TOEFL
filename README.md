@@ -55,3 +55,9 @@
     - 30m, 300+ words
     - 'Firstly', 'Next up', 'Finally' are appropriate stances to begin the paras 
     
+---
+## Practice
+- Read a lot of stuff (tips: Go through the first line of each para first to get a general idea, eliminate choices and maintain a consistent timing)
+- Listening: Always a good listener, so wouldn't worry much about it!
+- Speaking: The section am a bit nervous about. Online speaking tests help a lot to master the timing :) ([Example](https://www.youtube.com/watch?v=AZL8_nytN0k))
+- Writing: easy-peasy (over-confident, but then whats the use of writing blogs!)
